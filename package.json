@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mitrikyle/code2040#readme",
   "dependencies": {
-    "request": "^2.74.0"
+    "request": "^2.74.0",
+    "reverse-utf16-string": "^1.0.2"
   }
 }
